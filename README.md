@@ -11,7 +11,7 @@
     /<link rel="stylesheet" href="css/deviceful.css" />
     <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css" />
     <title>Deviceful Designs</title>
-    <style>
+  <style>
     body {
     font-family: "Open Sans", sans-serif;
 }
@@ -71,7 +71,7 @@ h5 {
 background {
     background-color: #140970 ;
 }
-</script>
+</style>
 </head>
 
 <body>
